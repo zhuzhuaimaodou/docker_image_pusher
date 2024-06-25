@@ -1,1 +1,1 @@
-chatgpt-web-midjourney-proxy: v2.18.8
+chatgpt-web-midjourney-proxy:v2.18.8
