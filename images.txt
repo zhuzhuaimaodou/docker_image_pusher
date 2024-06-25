@@ -1,1 +1,1 @@
-chatgpt web midjourney proxy
+chatgpt-web-midjourney-proxy:letest
